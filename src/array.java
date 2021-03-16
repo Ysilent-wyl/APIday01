@@ -16,6 +16,7 @@ public class array {
         保质期：48天
         过期前的一周周四是促销日，问促销日是哪一天
         https://github.com/Ysilent-wyl/APIday01.git
+
          */
         Calendar cal = Calendar.getInstance();
         cal.set(Calendar.DATE,13);
